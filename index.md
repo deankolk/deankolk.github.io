@@ -1,35 +1,11 @@
-## Portfolio
+## Selected data science projects
 
 ---
 
-### Category Name 1 
+### Legal text analytics: clustering trends in r/legaladvice using tfidf and k-means with pca visualization
+I analyzed posts from r/legaladvice to identify common legal trends using a TF-IDF matrix and K-Means clustering. PCA was used to visualize key topics like rental issues, car-related concerns, and work/finance discussions.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+[View code on Git Repo]([https://github.com/deankolk/r-legaladvice-text-analytics-project])
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
