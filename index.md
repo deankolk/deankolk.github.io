@@ -9,5 +9,14 @@ I analyzed posts from r/legaladvice to identify common legal trends using Python
 
 [View code on Git Repo](https://github.com/deankolk/r-legaladvice-text-analytics-project)
 
+---
+
+### Golf Score Simulation: Predicting Future Performance Using Normal Distribution and Monte Carlo Simulations
+I used my personal golf scores to simulate potential future performances using Python libraries such as NumPy and SciPy. By applying a Normal Distribution and running 1000 Monte Carlo simulations, I generated a range of possible scores for upcoming rounds. The simulations were visualized to highlight trends in score variability, and to help me understand the likelihood of breaking specific score thresholds like 80 or 90.
+
+<img src="images/legal_clusters.png?raw=true" />
+
+[View code on Git Repo](https://github.com/deankolk/golf-score-simulation-)
+
 
 
