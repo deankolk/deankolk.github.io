@@ -11,7 +11,7 @@ I analyzed posts from r/legaladvice to identify common legal trends using Python
 
 ---
 
-### Golf Score Simulation: Predicting Future Performance Using Normal Distribution and Monte Carlo Simulations
+### Golf score simulation: predicting future performance using normal distribution and monte carlo simulations
 I used my personal golf scores to simulate potential future performances using Python libraries such as NumPy and SciPy. By applying a Normal Distribution and running 1000 Monte Carlo simulations, I generated a range of possible scores for upcoming rounds. The simulations were visualized to highlight trends in score variability, and to help me understand the likelihood of breaking specific score thresholds like 80 or 90.
 
 <img src="images/scores_hist.png?raw=true" />
